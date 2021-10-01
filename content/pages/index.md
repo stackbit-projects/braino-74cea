@@ -7,7 +7,6 @@ sections:
       Celebrating daily wins with YourGoal.
     actions:
       - label: Join waitlist now
-      
         url: /pricing
         style: primary
     image: images/hero.svg
